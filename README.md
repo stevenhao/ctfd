@@ -3,7 +3,7 @@
 ## Usage
 Use `ctfd` to jump to the most recently `cd`'d to directory.
 
-This is useful if you need to open multiple shells (e.g. ssh) and work in a hard to find directory
+This is useful if you need to open multiple shells (e.g. ssh) and work in a hard to find directory. If you only have one shell open, the behavior should be the same as `cd -`.
 
 ## Installation
 Add these lines to your `~/.bashrc`, `~/.profile`, or `~/.zshrc` file to have it automatically sourced upon login:
