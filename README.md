@@ -27,4 +27,4 @@ mkdir ~/.ctfd
 
 Done!
 
-To test your installation, open two shells and navigate to some directory in the first one. Type `ctfd` in the second shell and you should be taken to the same directory.
+To test your installation, open two shells (if you already have two open shells, don't forget to `source ~/.bashrc`) and navigate to some directory in the first one. Type `ctfd` in the second shell and you should be taken to the same directory.
